@@ -1,0 +1,20 @@
+2024-12-31T05:48:55.879Z - Action: REGISTER, Username: abel, Status: FAILURE, Message: Password does not meet complexity requirements
+2024-12-31T05:50:58.199Z - Action: REGISTER, Username: abel, Status: FAILURE, Message: Password does not meet complexity requirements
+2024-12-31T05:51:05.755Z - Action: REGISTER, Username: abel, Status: FAILURE, Message: Password does not meet complexity requirements
+2024-12-31T05:51:34.337Z - Action: REGISTER, Username: abel, Status: FAILURE, Message: Password does not meet complexity requirements
+2024-12-31T05:51:40.499Z - Action: REGISTER, Username: abel, Status: FAILURE, Message: Password does not meet complexity requirements
+2024-12-31T05:52:00.233Z - Action: REGISTER, Username: abel, Status: FAILURE, Message: Password does not meet complexity requirements
+2024-12-31T05:52:06.405Z - Action: REGISTER, Username: abel, Status: FAILURE, Message: Password does not meet complexity requirements
+2024-12-31T05:52:29.159Z - Action: REGISTER, Username: abel, Status: FAILURE, Message: Password does not meet complexity requirements
+2024-12-31T06:07:44.431Z - Action: REGISTER, Username: abel, Status: SUCCESS, Message: User registered and verification email sent
+2024-12-31T06:08:39.844Z - Action: REGISTER, Username: undefined, Status: FAILURE, Message: Email already in use
+2024-12-31T06:08:53.057Z - Action: LOGIN, Username: abel@gmail.com, Status: SUCCESS, Message: Login successful
+2024-12-31T06:12:50.900Z - Action: REGISTER, Username: santa, Status: FAILURE, Message: Password does not meet complexity requirements
+2024-12-31T06:12:57.004Z - Action: REGISTER, Username: santa, Status: SUCCESS, Message: User registered and verification email sent
+2024-12-31T07:06:39.872Z - Action: REGISTER, Username: abel, Status: FAILURE, Message: Password does not meet complexity requirements
+2024-12-31T07:07:17.375Z - Action: REGISTER, Username: abel, Status: FAILURE, Message: Password does not meet complexity requirements
+2024-12-31T07:07:24.539Z - Action: REGISTER, Username: abel, Status: FAILURE, Message: Password does not meet complexity requirements
+2024-12-31T07:07:35.222Z - Action: REGISTER, Username: abel, Status: SUCCESS, Message: User registered and verification email sent
+2024-12-31T07:08:09.703Z - Action: LOGIN, Username: abel@gmail.com, Status: SUCCESS, Message: Login successful
+2024-12-31T07:10:42.228Z - Action: REGISTER, Username: santa, Status: SUCCESS, Message: User registered and verification email sent
+2024-12-31T07:11:17.704Z - Action: LOGIN, Username: santa@gmail.com, Status: SUCCESS, Message: Login successful

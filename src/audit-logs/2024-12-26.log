@@ -1,0 +1,36 @@
+2024-12-26T02:28:55.158Z - Action: REGISTER, Username: hamza, Status: FAILURE, Message: E11000 duplicate key error collection: new.users index: username_1 dup key: { username: "hamza" }
+2024-12-26T02:29:46.382Z - Action: REGISTER, Username: hamza1, Status: FAILURE, Message: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-4364a3766dcsm202172025e9.0 - gsmtp
+2024-12-26T03:32:22.597Z - Action: REGISTER, Username: hamza1, Status: FAILURE, Message: Email already in use
+2024-12-26T03:32:36.770Z - Action: REGISTER, Username: hamza2, Status: SUCCESS, Message: User registered and verification email sent
+2024-12-26T09:00:38.076Z - Action: REGISTER, Username: abel, Status: FAILURE, Message: Password does not meet complexity requirements
+2024-12-26T09:00:53.425Z - Action: REGISTER, Username: abel, Status: FAILURE, Message: User validation failed: email: Path `email` is required.
+2024-12-26T09:01:09.455Z - Action: REGISTER, Username: abel, Status: SUCCESS, Message: User registered and verification email sent
+2024-12-26T09:01:48.838Z - Action: LOGIN, Username: undefined, Status: FAILURE, Message: Invalid credentials
+2024-12-26T09:02:01.345Z - Action: LOGIN, Username: undefined, Status: FAILURE, Message: Invalid credentials
+2024-12-26T09:03:49.489Z - Action: LOGIN, Username: undefined, Status: FAILURE, Message: Invalid credentials
+2024-12-26T09:04:14.409Z - Action: LOGIN, Username: undefined, Status: FAILURE, Message: Invalid credentials
+2024-12-26T09:05:06.654Z - Action: LOGIN, Username: undefined, Status: FAILURE, Message: Invalid credentials
+2024-12-26T09:06:12.762Z - Action: LOGIN, Username: undefined, Status: FAILURE, Message: Invalid credentials
+2024-12-26T09:07:36.430Z - Action: LOGIN, Username: undefined, Status: FAILURE, Message: Invalid credentials
+2024-12-26T09:08:25.251Z - Action: REGISTER, Username: kk, Status: FAILURE, Message: User validation failed: role: Path `role` is required.
+2024-12-26T09:08:35.654Z - Action: REGISTER, Username: kk, Status: SUCCESS, Message: User registered and verification email sent
+2024-12-26T09:08:54.194Z - Action: LOGIN, Username: undefined, Status: FAILURE, Message: Invalid credentials
+2024-12-26T09:08:55.995Z - Action: LOGIN, Username: undefined, Status: FAILURE, Message: Invalid credentials
+2024-12-26T09:09:52.838Z - Action: LOGIN, Username: undefined, Status: FAILURE, Message: Invalid credentials
+2024-12-26T09:12:08.299Z - Action: LOGIN, Username: kk@gmail.com, Status: SUCCESS, Message: Login successful
+2024-12-26T09:17:47.601Z - Action: LOGIN, Username: abel@gmail.com, Status: FAILURE, Message: Illegal arguments: undefined, string
+2024-12-26T09:18:13.466Z - Action: LOGIN, Username: kk@gmail.com, Status: FAILURE, Message: Illegal arguments: undefined, string
+2024-12-26T09:19:06.880Z - Action: LOGIN, Username: kk@gmail.com, Status: SUCCESS, Message: Login successful
+2024-12-26T09:19:55.592Z - Action: LOGIN, Username: kk@gmail.com, Status: SUCCESS, Message: Login successful
+2024-12-26T09:24:06.478Z - Action: LOGIN, Username: kk@gmail.com, Status: SUCCESS, Message: Login successful
+2024-12-26T09:30:04.111Z - Action: LOGIN, Username: kk@gmail.com, Status: SUCCESS, Message: Login successful
+2024-12-26T09:37:34.071Z - Action: LOGIN, Username: kk@gmail.com, Status: SUCCESS, Message: Login successful
+2024-12-26T09:45:11.260Z - Action: LOGIN, Username: kk@gmail.com, Status: SUCCESS, Message: Login successful
+2024-12-26T09:46:50.888Z - Action: REGISTER, Username: marta, Status: SUCCESS, Message: User registered and verification email sent
+2024-12-26T09:47:09.522Z - Action: LOGIN, Username: marta@gmail.com, Status: SUCCESS, Message: Login successful
+2024-12-26T11:21:29.197Z - Action: REGISTER, Username: nati, Status: FAILURE, Message: User validation failed: email: Path `email` is required., role: Path `role` is required.
+2024-12-26T11:25:09.257Z - Action: REGISTER, Username: nati, Status: FAILURE, Message: Password does not meet complexity requirements
+2024-12-26T11:25:36.496Z - Action: REGISTER, Username: nati, Status: FAILURE, Message: Password does not meet complexity requirements
+2024-12-26T11:25:45.354Z - Action: REGISTER, Username: nati, Status: SUCCESS, Message: User registered and verification email sent
+2024-12-26T11:26:44.943Z - Action: LOGIN, Username: nati@gmail.com, Status: SUCCESS, Message: Login successful
